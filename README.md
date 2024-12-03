@@ -9,7 +9,7 @@
 <p>Wojciech</p>
 <a href="./zadanie1.html">Zadanie 4.1</a>
 <p><a href="./zadanie2.html">Zadanie 4.2</a></p>
-<p></p><a href="./zadanie3.html">Zadanie 4.3</a></body>p>
+<p></p><a href="./zadanie3.html">Zadanie 4.3</a></p>
 </body>
 
 </html>
